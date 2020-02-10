@@ -1,2 +1,2 @@
-# EmuTarkov-ClientMods
-A repository containing mods made for Escape From Tarkov (requires EmuTarkov to be used)
+# All-in-one folder
+This folder will contain all weapons skins wich are added with all skinned parts together
