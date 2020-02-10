@@ -4,4 +4,4 @@ This folder will contain all assault rifles skins
 ## Mod list and description
 
 ### Duelo-DesertTech Ash-12
-(https://i.imgur.com/OM0D5cF.jpg)
+[ASH12](https://i.imgur.com/OM0D5cF.jpg)
