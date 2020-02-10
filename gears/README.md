@@ -9,3 +9,5 @@ This folder will contain all gears item skins
 ### Tinted 6b34 - Made by 8BitPotato#7974
 ![Tinted 6b34](https://cdn.discordapp.com/attachments/602533402402619422/676465837107970049/unknown.png)
 
+### SCP 6b34 armor - Made by Duelo
+![SCP Armor](https://cdn.discordapp.com/attachments/638306949900926991/672106813562552332/unknown.png)
