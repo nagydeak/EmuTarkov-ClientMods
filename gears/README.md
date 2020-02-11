@@ -14,3 +14,6 @@ This folder will contain all gears item skins
 
 ### WalkingTankArmor - Made by enhausser#0408
 ![WalkingTankArmor](https://cdn.discordapp.com/attachments/602533402402619422/676495965003448340/walkingtank.png)
+
+### CarbonFiber_FastMT - Made by Drill#0596
+![CarbonFiber_FastMT](https://cdn.discordapp.com/attachments/602533402402619422/676564555597348898/jBEC1cw.png)
