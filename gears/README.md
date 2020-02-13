@@ -17,3 +17,6 @@ This folder will contain all gears item skins
 
 ### CarbonFiber_FastMT - Made by Drill#0596
 ![CarbonFiber_FastMT](https://cdn.discordapp.com/attachments/602533402402619422/676564555597348898/jBEC1cw.png)
+
+### Black_6b43_Armor - Made by 8BitPotato#7974
+![Black_6b43_Armor](https://cdn.discordapp.com/attachments/602533402402619422/677521202826313728/unknown.png)
