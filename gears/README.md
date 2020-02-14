@@ -20,3 +20,9 @@ This folder will contain all gears item skins
 
 ### Black_6b43_Armor - Made by 8BitPotato#7974
 ![Black_6b43_Armor](https://cdn.discordapp.com/attachments/602533402402619422/677521202826313728/unknown.png)
+
+### FullTanEXFIL - Made by 8BitPotato#7974
+![FullTanEXFIL]()
+
+### FullBlackEXFIL - Made by 8BitPotato#7974
+![FullBlackEXFIL]()
