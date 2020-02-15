@@ -17,3 +17,9 @@ This folder will contain all weapons skins wich are added with all skinned parts
 
 ### sr25_red_camo - Made by Sorata
 ![SR25](https://i.imgur.com/0UEbprq.png)
+
+### SirBrando-mods - Made by SirBrando
+![SirBrando-mods]()
+
+### MOOD-RedDigitalFurnite - Made by MOOD
+![SirBrando-mods](https://i.imgur.com/BeD4GWU.png)
