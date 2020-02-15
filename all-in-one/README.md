@@ -25,4 +25,4 @@ This folder will contain all weapons skins wich are added with all skinned parts
 ![SirBrando-mods](https://i.imgur.com/BeD4GWU.png)
 
 ### DigitalFloraForGorka - Made by Nexrus#6266
-![DigitalFloraForGorka](hhttps://cdn.discordapp.com/attachments/602533402402619422/678254406868664320/645.png)
+![DigitalFloraForGorka](https://cdn.discordapp.com/attachments/602533402402619422/678254406868664320/645.png)
